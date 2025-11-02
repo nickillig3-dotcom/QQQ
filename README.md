@@ -1,0 +1,1 @@
+# ShopSizer Pro (MVP Scaffold)
