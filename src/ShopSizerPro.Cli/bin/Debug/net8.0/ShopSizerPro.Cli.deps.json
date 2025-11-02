@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShopSizerPro.Cli/1.0.0": {
+        "dependencies": {
+          "ShopSizerPro.Core": "1.0.0"
+        },
+        "runtime": {
+          "ShopSizerPro.Cli.dll": {}
+        }
+      },
+      "ShopSizerPro.Core/1.0.0": {
+        "runtime": {
+          "ShopSizerPro.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopSizerPro.Cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopSizerPro.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
